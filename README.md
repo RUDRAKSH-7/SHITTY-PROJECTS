@@ -11,7 +11,7 @@ X O.py --> well its a tic-tac-toe game I learned off some youtube video
             but implemented my own replay and colored text schemes (My Perferctionist self)
             
 Mominos.py --> this is embarrasing, but its a food ordering app design, 
-                which isn't anything but a basic interactive terminal based UI program.
+                which isn't anything but a basic interactive terminal based UI program. Named due to the fact that I was told to make it by my mother.
                 
 Dice.py --> this is a Dice roller that I made just because I was told to,
             took less time to make but more time to copy and paste the same type of code everytime.
